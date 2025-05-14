@@ -23,7 +23,7 @@ if x > 0:
     print("Positive")
 
 ```
-
+---
 
 ## 🔹 3. Variables and Dynamic Typing
 
@@ -34,6 +34,8 @@ name = "Alice"   # String
 age = 25         # Integer
 
 ```
+---
+
 ## 🔹 4. Control Flow
 
 Python supports conditional statements and loops using clear syntax.
@@ -43,6 +45,7 @@ for i in range(3):
     print(i)
 
 ```
+---
 
 ## 🔹 5. Functions for Reuse
 Define reusable blocks of logic using def.
@@ -52,6 +55,7 @@ def greet(name):
     return f"Hello, {name}"
 
 ```
+---
 
 ## 🔹 6. Built-in Data Structures
 
@@ -66,7 +70,9 @@ my_list = [1, 2, 3]
 my_dict = {"name": "Alice", "age": 25}
 
 ```
-##🔹 7. Modules & Imports
+---
+
+## 🔹 7. Modules & Imports
 
 Organize and reuse your code by importing standard or custom modules.
 
@@ -74,6 +80,7 @@ Organize and reuse your code by importing standard or custom modules.
 import math
 
 print(math.sqrt(16))
+
 ```
 
 ## 💬 Final Thoughts
